@@ -1,0 +1,53 @@
+Using Ollama server located at: g002.clipper.gvsu.edu:12754
+
+Pulling gemma3...
+
+pulling manifest 
+pulling aeda25e63ebd: 100% ▕██████████████████▏ 3.3 GB                         
+pulling e0a42594d802: 100% ▕██████████████████▏  358 B                         
+pulling dd084c7d92a3: 100% ▕██████████████████▏ 8.4 KB                         
+pulling 3116c5225075: 100% ▕██████████████████▏   77 B                         
+pulling b6ae5839783f: 100% ▕██████████████████▏  489 B                         
+verifying sha256 digest 
+writing manifest 
+success 
+
+
+That's a fantastic question, and it's one that's fascinated people for centuries! The short answer is: **it's due to a phenomenon called Rayleigh scattering.** Here's a breakdown of the explanation:
+
+**1. Sunlight and its Colors:**
+
+* Sunlight isn't white. It's actually made up of *all* the colors of the rainbow – red, orange, yellow, green, blue, and violet. You can see this when sunlight passes through a prism, which separates the colors.
+
+**2. The Atmosphere and Scattering:**
+
+* The Earth's atmosphere is full of tiny particles – mostly nitrogen and oxygen molecules.
+* When sunlight enters the atmosphere, it collides with these molecules. This collision causes the light to scatter in different directions.
+
+**3. Rayleigh Scattering – The Key Process:**
+
+* **Rayleigh scattering** is the type of scattering that's most important for explaining the blue sky. It states that shorter wavelengths of light (like blue and violet) are scattered *much* more strongly than longer wavelengths (like red and orange).
+* Think of it like this: the tiny air molecules are like little obstacles.  Blue and violet light waves are like smaller, more energetic waves that are easily deflected by these obstacles. Red and orange light waves are larger and less easily scattered.
+
+**4. Why Blue, Not Violet?**
+
+* Violet light is scattered even *more* than blue light. However, there are a couple of reasons why we primarily see a blue sky:
+    * **Sun's Output:** The sun actually emits less violet light than blue light.
+    * **Our Eyes:** Our eyes are more sensitive to blue light than violet light.
+
+
+
+**In simple terms:** Blue light gets bounced around all over the sky by the atmosphere, making it appear to come from everywhere.
+
+---
+
+**Resources to learn more:**
+
+* **NASA:** [https://science.nasa.gov/atmosphere/why-is-the-sky-blue/](https://science.nasa.gov/atmosphere/why-is-the-sky-blue/)
+* **National Geographic:** [https://www.nationalgeographic.com/science/phenomena/sky-blue/](https://www.nationalgeographic.com/science/phenomena/sky-blue/)
+
+
+Do you want to delve deeper into any specific aspect of this explanation, such as:
+
+*   Why sunsets are red?
+*   How this affects other planets?
